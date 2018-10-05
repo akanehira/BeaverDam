@@ -17,7 +17,7 @@ Your task is to accurately draw rectangles for the `concept` written in red colo
 - `space` play/pause
 - `d` or 'delete' to delete selected rectangle
 
-## Detailed Instructions
+## Important Details
 1. Box should be as small as possible, and it does not need to cover the area of the person. For example, if the `concept` is 'Body_Parts_Used is Arms', box should cover only arms, not legs or other parts.
 2. If you do not see the `concept` in particular frames, you do not need to draw box in those frames.
 3. Draw box by yourself at least once every 5 frames.
