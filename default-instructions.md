@@ -23,6 +23,7 @@ For example, if the `concept` is 'Motion is Flipping', start to draw box when pe
 
 ## Good Examples
 ![Good Examples](https://raw.githubusercontent.com/akanehira/BeaverDam/master/fig1.png =100x300)
+<img src="https://raw.githubusercontent.com/akanehira/BeaverDam/master/fig1.png" width="48">
 
 ## Bad Examples
 ![Bad Examples](https://raw.githubusercontent.com/akanehira/BeaverDam/master/fig2.png = 50x150)
