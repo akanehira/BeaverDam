@@ -22,8 +22,7 @@ For example, if the `concept` is 'Motion is Flipping', start to draw box when pe
 4. Draw box by yourself at least once every 5 frames.
 
 ## Good Examples
-![Good Examples](https://raw.githubusercontent.com/akanehira/BeaverDam/master/fig1.png =100x300)
-<img src="https://raw.githubusercontent.com/akanehira/BeaverDam/master/fig1.png" width="48">
+<img src="https://raw.githubusercontent.com/akanehira/BeaverDam/master/fig1.png" width="450" height="150">
 
 ## Bad Examples
-![Bad Examples](https://raw.githubusercontent.com/akanehira/BeaverDam/master/fig2.png = 50x150)
+<img src="https://raw.githubusercontent.com/akanehira/BeaverDam/master/fig2.png" width="900" height="300">
