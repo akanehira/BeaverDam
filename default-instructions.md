@@ -5,11 +5,12 @@ Your task is to accurately draw rectangles for the `concept` (such as motion or 
 
 ## Quick Instructions
 1. Mark the checkbox `scalte to fit` if the video is small 
-2. Draw a box accurately around the concept
-3. Hit `s` to go step through frames
-4. Adjust the box to keep it accurate
+2. Watch the whole video (Push the ▶ button), and go back to the first frame (Push the << button).
+3. Draw a box accurately around the `concept`
+4. Hit `s` to go step through frames
+5. Adjust the box to keep it accurate
 
-## Keyboard Shortcuts
+## Keyboard Shortcuts (activated after watching video)
 - `a` step back 1 frame
 - `s` step forward 1 frame
 - `d` or 'delete' to delete selected rectangle
