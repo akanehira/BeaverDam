@@ -4,7 +4,7 @@
 Your task is to accurately draw rectangles for the `concept` (such as motion or object) written in red color in the top of the task page.
 
 ## Quick Instructions
-1. Mark the checkbox `scalte to fit` if the video is small 
+1. Mark the checkbox `scalte to fit`. 
 2. Watch the whole video (Push the ▶ button), and go back to the first frame (Push the << button).
 3. Draw a box accurately around the `concept`
 4. Hit `s` to go step through frames
