@@ -21,7 +21,7 @@ Your task is to accurately draw rectangles for the `concept` (such as motion or 
 For example, if the `concept` is 'Motion is Flipping', start to draw box when person start to flip, and delete the box when the he stops flipping. 
 3. You can skip frames when the location of box does not change. Dotted box will be used for those frames.
 4. Draw box by yourself at least once every 5 frames.
-5. Make sure only one box is written in the video. After finishing annotation, check it by watching video again (Push the ▶ button).
+5. After finishing annotation, check if your anotation is correct by watching video again (Push the ▶ button).
 
 ## Good Examples
 <img src="https://raw.githubusercontent.com/akanehira/BeaverDam/master/fig1.png" width="900" height="300">
