@@ -10,6 +10,11 @@ Your task is to accurately draw rectangles for the `concept` (such as motion or 
 4. Hit `s` to go step through frames
 5. Adjust the box to keep it accurate. Please do not make a new box! Just move the previous (dotted) box! Some workers made this mistake, but submissions having more than two boxes for the same 'concept' will be rejected automatically.
 
+## Examples
+<img src="https://raw.githubusercontent.com/akanehira/BeaverDam/master/expample1.png" width="500" height="300">
+
+
+
 ## Keyboard Shortcuts (activated after watching video)
 - `a` step back 1 frame
 - `s` step forward 1 frame
