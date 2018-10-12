@@ -8,7 +8,7 @@ Your task is to accurately draw rectangles for the `concept` (such as motion or 
 2. Watch the whole video (Push the ▶ button), and go back to the first frame (Push the << button). After watching, shortcut key will be activated.
 3. Draw a box accurately around the `concept`
 4. Hit `s` to go step through frames
-5. Adjust the box to keep it accurate. Please do not make a new box! Just move the previous (dotted) box! Some workers made this mistake, but submissions having more than two boxes will be rejected automatically.
+5. Adjust the box to keep it accurate. Please do not make a new box! Just move the previous (dotted) box! Some workers made this mistake, but submissions having more than two boxes for the same 'concept' will be rejected automatically.
 
 ## Keyboard Shortcuts (activated after watching video)
 - `a` step back 1 frame
